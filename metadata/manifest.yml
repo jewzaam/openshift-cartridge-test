@@ -4,7 +4,7 @@ Cartridge-Short-Name: MOCK
 Display-Name: Mock Cartridge 0.1
 Description: A mock cartridge for development use only.
 Version: '0.1'
-Source-Url: https://github.com/jewzaam/openshift-cartridge-test.git
+Source-Url: git://github.com/jewzaam/openshift-cartridge-test.git
 Versions:
 - '0.1'
 - '0.2'
