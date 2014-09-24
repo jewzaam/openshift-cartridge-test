@@ -21,6 +21,8 @@ Categories:
 Provides:
 - mock-0.1
 - mock
+Requires:
+- mongodb-2.4
 Cart-Data:
 - Key: OPENSHIFT_MOCK_EXAMPLE
   Type: environment
