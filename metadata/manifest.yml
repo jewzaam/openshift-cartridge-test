@@ -23,6 +23,7 @@ Provides:
 - mock
 Requires:
 - mongodb-2.4
+- jbosseap-6
 Cart-Data:
 - Key: OPENSHIFT_MOCK_EXAMPLE
   Type: environment
