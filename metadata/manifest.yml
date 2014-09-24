@@ -13,7 +13,7 @@ Versions:
 License: ASL 2.0
 Vendor: Red Hat
 Cartridge-Version: 0.0.1
-Cartridge-Vendor: redhat
+Cartridge-Vendor: jewzaam
 Categories:
 - service
 - mock
